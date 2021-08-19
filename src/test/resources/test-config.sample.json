@@ -1,0 +1,11 @@
+{
+  "appId": "应用的appId",
+  "appSecret": "应用的appSecret",
+  "aesKey": "应用的aesKey",
+  "token": "应用的token",
+  "httpProxyType": "HTTP代理类型;0:不代理,1:反向代理,2:正向代理",
+  "httpProxyHost": "HTTP正向代理的Host",
+  "httpProxyPort": "HTTP正向代理的Port",
+  "httpProxyServer": "HTTP反向代理的Server",
+  "userId": "应用的userId,主要拿来做test用"
+}
