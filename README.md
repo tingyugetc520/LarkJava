@@ -36,4 +36,4 @@ fsService.getUserService().list();
 - [x] 身份验证
 - [x] 通讯录管理（只读）
 - [x] 机器人消息
-- [] HTTP事件回调
+- [ ] HTTP事件回调
