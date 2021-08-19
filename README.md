@@ -19,7 +19,7 @@ git clone https://github.com/tingyugetc520/LarkJava.git
 ```java
 // 应用配置
 FsDefaultConfigImpl config = new FsDefaultConfigImpl();
-config.setAppId("corpId");
+config.setAppId("appId");
 config.setAppSecret("appSecret");
 
 // FsService为SDK使用入口，后续接口使用均需要FsService
